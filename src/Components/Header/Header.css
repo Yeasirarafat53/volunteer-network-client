@@ -1,0 +1,36 @@
+.logo{
+    /* position: absolute; */
+    width: 202.81px;
+    height: 60px;
+    left: 88px;
+    top: 44px;
+}
+.btn-primary{
+    margin-right: 5px;
+    width: 100px;
+    height: 40px;
+}
+.btn-dark{
+    width: 100px;
+    height: 40px;
+}
+
+.grow{
+
+    font-family: Montserrat;
+    font-weight: bold;
+    margin-top: 50px;
+
+}
+
+.search{
+    justify-content: center;
+    
+}
+.search input{
+    border-radius: 3px;
+    border: 1px solid lightgray;
+}
+
+
+

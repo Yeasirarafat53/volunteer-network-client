@@ -1,0 +1,45 @@
+.form-logo{
+    width: 202px;
+    height: 60px;
+} 
+.volunteer-login{
+    /* text-align: center; */
+    margin-top: 50px;
+    
+}
+
+.login-form {
+    border: 1px solid lightgrey;
+    border-radius:50px;
+    padding: 40px;
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 20px; 
+    
+}
+.svg-inline--fa {
+    font-size: xx-large;
+    color: rgb(92, 235, 187);
+}
+
+.google-signin{
+    color: rgb(253, 253, 253);
+    background-color: rgba(22, 82, 45, 0.931);
+    font-weight: bold;
+    max-width: 400px;
+    display: flex;
+    align-items: center;
+    border: 1px solid #d3d3d3;
+    border-radius: 50px;
+    padding: 15px 20px;
+    margin: auto auto 15px;
+    cursor: pointer;
+    height:50px;
+    padding-left: 80px;
+}
+
+.google-signin p{
+    padding:10px;
+    padding-top:23px;
+}
